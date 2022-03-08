@@ -1,25 +1,28 @@
 {
-    "name": "employee-tracker-pro",
-    "version": "1.0.0",
-    "description": " ",
-    "main": "app.js",
-    "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/BrandonConte/Employee-Tracker-Pro.git"
-    },
-    "author": "",
-    "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/BrandonConte/Employee-Tracker-Pro/issues"
-    },
-    "homepage": "https://github.com/BrandonConte/Employee-Tracker-Pro#readme",
-    "dependencies": {
-      "console.table": "^0.10.0",
-      "dotenv": "^8.2.0",
-      "inquirer": "^7.1.0",
-      "mysql": "^2.18.1"
-    }
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chis517/employee-tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chis517/employee-tracker/issues"
+  },
+  "homepage": "https://github.com/Chis517/employee-tracker#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "express": "^4.17.2",
+    "inquirer": "^8.2.0",
+    "mysql2": "^2.3.3",
+    "nodemon": "^2.0.15"
   }
+}
