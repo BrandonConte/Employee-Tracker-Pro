@@ -44,4 +44,4 @@ After you source the sql files needed, run npm start in the command line to star
 (https://github.com/BrandonConte/Employee-Tracker-Pro)
 
 * [URL of video demo]
-(insertvideolinkhere)
+(https://drive.google.com/file/d/1eQLvrbf2AE5uAOa1LerPUTpU37KXTOVg/view?usp=sharing)
