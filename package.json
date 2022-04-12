@@ -15,9 +15,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Chis517/employee-tracker/issues"
+    "url": "https://github.com/BrandonConte/Employee-Tracker-Pro/issues"
   },
-  "homepage": "https://github.com/Chis517/employee-tracker#readme",
+  "homepage": "https://github.com/BrandonConte/Employee-Tracker-Pro#readme",
   "dependencies": {
     "console.table": "^0.10.0",
     "express": "^4.17.2",
